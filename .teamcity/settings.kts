@@ -49,8 +49,4 @@ object Build : BuildType({
         vcs {
         }
     }
-
-    requirements {
-        matches("teamcity.agent.jvm.os.family", "Linux")
-    }
 })
