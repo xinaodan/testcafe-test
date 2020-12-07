@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "test": "testcafe chrome test/"
+    "test": "testcafe chrome test/",
+    "test:headless": "testcafe 'chrome:headless' test/"
   },
   "dependencies": {
     "testcafe": "^1.9.4"
