@@ -6,3 +6,8 @@ This repository contains basic testcafe test which is used for testing integatio
 ```
 yarn
 ```
+
+## Run test
+```
+yarn run test
+```
